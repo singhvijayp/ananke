@@ -1,0 +1,4 @@
+baseURL = 'https://singhvijayp.vercel.app/ananke'
+languageCode = 'en-us'
+title = 'Vijay Pratap Singh'
+theme = 'ananke'
